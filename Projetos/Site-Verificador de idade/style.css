@@ -1,5 +1,5 @@
 body{
-    background: rgb(98, 167, 245);
+    background: rgb(165, 198, 235);
     font: normal 15pt arial;
   
 }
@@ -7,15 +7,15 @@ body{
 header{
     color: white;
     text-align: center
-    
-
 }
 
 section{
     background: white;
     margin: auto;
     text-align: center;
-
+    width: 600px;
+    border-radius: 10px;
+    padding: 1px;
 
 
 
