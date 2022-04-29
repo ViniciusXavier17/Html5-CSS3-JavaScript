@@ -9,7 +9,7 @@ function verificar(){
     var imagem = document.createElement('img')
     imagem.setAttribute('id', 'foto')
     if(anoNasc.value.length == 0 ||anoNasc.value > ano){
-       /* window.alert('ERRO: Verifique se os dados foram preenchidos corretamnete')*/
+       window.alert('ERRO: Verifique se os dados foram preenchidos corretamnete')
     }else{
         var sexo = window.document.getElementsByName('radsex')
         idade = ano - Number(anoNasc.value)
