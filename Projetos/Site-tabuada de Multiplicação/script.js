@@ -13,10 +13,4 @@ function calcular(){
             tab.appendChild(item)
         }
     }
-
-
-    
-
-
-
 }
